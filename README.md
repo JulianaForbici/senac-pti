@@ -63,7 +63,12 @@ Para representar a estrutura e o comportamento do sistema, foram elaborados os s
 
 ---
 
-Link do projeto do Figma: https://www.figma.com/design/OjpqqfwJSLRF4KwXF9hhzk/PI?node-id=0-1&t=b6bJrqokmuDFlkUs-1
+## 🎨 Protótipo no Figma
+Para visualizar os protótipos completos desenvolvidos no Figma, clique no link abaixo:  
+
+🔗 [Clique aqui para abrir o projeto no Figma](https://www.figma.com/design/OjpqqfwJSLRF4KwXF9hhzk/PI?node-id=0-1&p=f)
+
+---
 
 ## 📚 Conclusão
 O desenvolvimento deste projeto proporcionou a **consolidação prática** dos conceitos estudados durante o curso, reforçando a importância da documentação no ciclo de vida de um software.  
@@ -75,8 +80,3 @@ Além disso, possibilitou o desenvolvimento de **habilidades técnicas e interpe
 - Aplicação de boas práticas de engenharia de software.   
 
 ---
-
-## 🎨 Protótipo no Figma
-Para visualizar os protótipos completos desenvolvidos no Figma, clique no link abaixo:  
-
-🔗 [Clique aqui para abrir o projeto no Figma](https://www.figma.com/design/OjpqqfwJSLRF4KwXF9hhzk/PI?node-id=0-1&p=f)
