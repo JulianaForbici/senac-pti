@@ -28,20 +28,11 @@ Este projeto faz parte do **Projeto Integrador II (PI)** do curso de **Análise 
 ## 🖼️ Protótipos
 Os protótipos foram desenvolvidos para facilitar a **visualização e validação da interface** antes da implementação do sistema:  
 
-### Cadastro de Pessoa Jurídica  
-![Cadastro pessoa jurídica](https://github.com/user-attachments/assets/cbb8c2fe-c49a-464e-a678-69af95014aa0)
-
-### Cadastro de Pessoa Física  
-![Cadastro pessoa física](https://github.com/user-attachments/assets/dc09ebc6-8e18-4034-b2c8-8476ce496548)
-
-### Cadastro de Fornecedor  
-![Cadastro fornecedor](https://github.com/user-attachments/assets/2c41551e-8d21-44cf-a690-0d3121cc51a1)
-
-### Cadastro de Aluno  
-![Cadastro Aluno](https://github.com/user-attachments/assets/e9d49d42-8317-470a-aa69-2361d5a67311)
-
-### Cadastro de Professor  
-![Cadastro Professor](https://github.com/user-attachments/assets/e8513e88-0141-4237-bb14-5f1ecc0f178c)
+#### Cadastro de Pessoa Jurídica 
+#### Cadastro de Pessoa Física  
+#### Cadastro de Fornecedor  
+#### Cadastro de Aluno 
+#### Cadastro de Professor  
 
 ---
 
