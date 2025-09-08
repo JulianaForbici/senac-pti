@@ -40,10 +40,7 @@ Os protótipos foram desenvolvidos para facilitar a **visualização e validaç�
 Para representar a estrutura e o comportamento do sistema, foram elaborados os seguintes diagramas:  
 
 - **Diagrama de Casos de Uso**  
-![Diagrama de caso de uso](https://github.com/user-attachments/assets/008c2f69-5646-4305-930a-502a912945dd)
-
 - **Diagrama de Classes**  
-![Diagrama de classes](https://github.com/user-attachments/assets/4816a843-36ce-443e-ac19-76f0506ac30b)
 
 ---
 
