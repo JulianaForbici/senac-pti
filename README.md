@@ -66,5 +66,5 @@ Além disso, possibilitou o desenvolvimento de **habilidades técnicas e interpe
 - Trabalho em equipe.  
 - Organização e comunicação.  
 - Aplicação de boas práticas de engenharia de software.   
-
+ 
 ---
